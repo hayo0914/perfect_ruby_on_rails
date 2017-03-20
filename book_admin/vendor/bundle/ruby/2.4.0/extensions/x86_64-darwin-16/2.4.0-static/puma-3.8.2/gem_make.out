@@ -1,0 +1,25 @@
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/book_admin/vendor/bundle/ruby/2.4.0/gems/puma-3.8.2/ext/puma_http11
+/Users/hamadayouta/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170319-59815-143phid.rb extconf.rb
+checking for BIO_read() in -lcrypto... yes
+checking for SSL_CTX_new() in -lssl... yes
+checking for openssl/bio.h... yes
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/book_admin/vendor/bundle/ruby/2.4.0/extensions/x86_64-darwin-16/2.4.0-static/puma-3.8.2/mkmf.log
+
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/book_admin/vendor/bundle/ruby/2.4.0/gems/puma-3.8.2/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/book_admin/vendor/bundle/ruby/2.4.0/gems/puma-3.8.2/ext/puma_http11
+make "DESTDIR="
+compiling http11_parser.c
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.bundle
+
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/book_admin/vendor/bundle/ruby/2.4.0/gems/puma-3.8.2/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20170319-59815-nd3t5g/puma

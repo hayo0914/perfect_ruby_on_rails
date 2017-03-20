@@ -1,0 +1,15 @@
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/todo/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/hamadayouta/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170319-38384-1ujv1yi.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/todo/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/todo/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/hamadayouta/Documents/dev/github/perfect_ruby_on_rails/todo/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20170319-38384-1q6rzt7
